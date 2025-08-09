@@ -1,0 +1,23 @@
+{
+  "name": "easy-drive-car-rental",
+  "version": "1.0.0",
+  "description": "Easy Drive is a responsive car rental site built with HTML, CSS, and JavaScript. It features a landing page with car deals, a search form, secure sign-in/sign-up with real-time validation, password strength checks, toggle visibility, and smooth interactive animations.",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build complete - static files ready for deployment'",
+    "start": "echo 'This is a static website. Open index.html in your browser.'",
+    "dev": "echo 'This is a static website. Open index.html in your browser.'"
+  },
+  "keywords": [
+    "car-rental",
+    "html",
+    "css",
+    "javascript",
+    "responsive",
+    "static-website"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
